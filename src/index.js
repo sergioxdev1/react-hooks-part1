@@ -59,4 +59,4 @@ function App2(props) {
 // <CambiarTituloHook />
 // <App2 />
 // <ContadorHook />
-ReactDOM.render(<CambiarTituloHook />, document.getElementById('root'));
+ReactDOM.render(<ContadorHook />, document.getElementById('root'));
